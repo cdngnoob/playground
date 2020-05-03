@@ -1,0 +1,19 @@
+Aufgabe 1.4.3
+======================
+<p>Schreibe ein Programm, das das Haus vom Nikolaus zeichnet.
+<p>Hinweise:
+<ul>
+<li> Anstelle der Funktionen forward, right und left kann man
+  auch die Funktion goto verwenden.
+<li> Als Koordinaten kann man die Punkte aus der folgenden Liste
+  verwenden:
+  <ul>
+    <li>0, 0 (Start)
+    <li>100, 0
+    <li>100, 100
+    <li>0, 100
+    <li>50, 150
+    <li>100, 100
+    <li>0, 0
+    <li>0, 100
+    <li>100, 0

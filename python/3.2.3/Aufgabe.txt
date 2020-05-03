@@ -1,0 +1,19 @@
+Aufgabe 3.2.3
+======================
+<p>Schreibe eine Funktion ist_Palindrom, die ein Wort als Parameter
+erwartet und wahr zurückgibt, wenn das Wort ein Palindrom ist,
+ansonsten falsch.
+Ein Palindrom ist ein Wort, das vorwärts und rückwärts gelesen
+gleich lautet, z.B. Rentner, Reittier, oder Lagerregal.</p>
+<p>Zur Erinnerung: Die Werte wahr und falsch werden in Python
+durch <code>True</code> und <code>False</code> ausgedrückt.</p>
+<p>Du kannst für die Aufgabe auf Großschreibung verzichten
+(also annehmen, dass alle Wörter kleingeschrieben werden).
+<p>Zum Testen des Programms kannst Du alle Palindrome in
+einem Satz ausgeben lassen, z.B.
+<pre>
+Worte = "anna und otto haben ein pferd als reittier".split()
+for Wort in Worte:
+    if ist_Palindrom(Wort):
+        print(Wort)
+</pre>

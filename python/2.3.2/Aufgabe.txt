@@ -1,0 +1,13 @@
+Aufgabe 2.3.2
+======================
+<p>Schreibe ein Programm, das den Durchschnitt der Zahlen aus einer Liste
+bildet. Den Durchschnitt erhältst Du, wenn Du die Summe
+der Zahlen durch ihre Anzahl (also die Länge der Liste) teilst. Die Liste der Zahlen bekommst Du durch
+<pre>
+from daten import Zahlen
+</pre>
+<p>Hinweis: Zum Ausprobieren kannst Du zunächst mit festen Werten arbeiten, zum Beispiel
+<pre>
+Zahlen = [8, 9, 9, 16, 16, 15, 18, 5]
+</pre>
+<p>Zum Abgeben musst Du dann die import-Zeile oben benutzen.

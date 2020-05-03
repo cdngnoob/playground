@@ -1,0 +1,17 @@
+Aufgabe 4.1.2
+======================
+<p>Schreibe ein Programm, das der Reihe nach
+<ol>
+<li> eine Zahl</li>
+<li> eine Rechenart (+, -, *, /)</li>
+<li> eine zweite Zahl</li>
+</ol>
+
+abfragt, und dann die beiden Zahlen verknüpft.
+<p>Ein möglicher Dialog könnte z.B. so aussehen
+<pre>
+Erste Zahl: 17
+Rechenart: +
+Zweite Zahl: 4
+Das Ergebnis von 17+4 ist 21
+</pre>

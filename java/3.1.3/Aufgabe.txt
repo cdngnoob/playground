@@ -1,0 +1,11 @@
+SC P3.1 Vererbung Aufgabe3
+======================
+Als nächstes wird Ronja eine Ersatzbatterie eingebaut. 
+
+Ergänze in der Klasse **DetectiveRobot** das ganzzahlige Attribut *spareBatteryRuntime* mit dem Wert <span style="color:blue">5</span>.
+
+Füge anschließend in der Klasse **DetectiveRobot** eine Funktion **giveTotalBatteryRuntime()** hinzu.
+
+Diese soll die geerbte Funktion **giveBatteryRuntime()** der bereits implementierten Superklasse **Robot** aufrufen und den Rückgabewert mit dem Wert von *spareBatteryRuntime* addieren.
+
+Anschließend soll das Ergebnis zurückgegeben werden.

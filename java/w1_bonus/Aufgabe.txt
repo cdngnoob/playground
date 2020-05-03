@@ -1,0 +1,10 @@
+Java Einstieg Woche1 Bonus1
+======================
+In dieser Übung rechnen wir mit Variablen vom Datentyp int und double um den Umfang eines Kreises zu bestimmen.
+
+Lege zunächst eine Variable *r* vom Datentyp int an. Sie beschreibt den Radius des Kreises. Der Radius (Variable *r*) soll den Wert 4 haben. 
+Lege zusätzlich eine Variable *pi* vom Datentyp double an. Sie beschreibt die Kreiskonstante Pi und bekommt den Wert 3,14. 
+
+Berechne anschließend den Umfang mit 2 * pi * r und speichere es in der Variable *u* vom Datentyp double. Gib anschließend *u* aus.
+
+Hinweis: pi sollte genau 3,14 und nicht genauer sein. 

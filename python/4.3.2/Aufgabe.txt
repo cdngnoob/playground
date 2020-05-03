@@ -1,0 +1,7 @@
+Aufgabe 4.3.2
+======================
+<p>Schreibe ein Programm, das zwei Schiffe aufeinander zufahren
+lässt. Setze dazu das eine Schiff auf die Koordinaten (-100, 0),
+und das andere Schiff auf die Koordinaten (100,0). Lasse sie dann
+aufeinander zufahren, indem sie sich in jedem Schritt immer um
+einen x-Unterschied von 1 aufeinander zubewegen.

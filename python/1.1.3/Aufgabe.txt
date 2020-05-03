@@ -1,0 +1,7 @@
+Aufgabe 1.1.3
+======================
+Eine Klasse mit 25 Schülern möchte eine Ausstellung besuchen.
+Der Eintritt kostet 4,80 €.
+Sie haben 130 € in der Klassenkasse.
+Schreibe ein Programm, das ausrechnet, wieviel in der Klassenkasse
+hinterher noch übrig ist.

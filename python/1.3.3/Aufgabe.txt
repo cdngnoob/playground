@@ -1,0 +1,13 @@
+Aufgabe 1.3.3
+======================
+<p>Schreibe ein Programm, das den Text</p>
+<code>-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-</code>
+<p>
+ausgibt. (zwanzigmal minus-stern, und dann zusätzliches
+minus). Verwende dazu die Variablen
+<pre>
+<code>
+minus = "-"
+minus_stern = "-*"
+</code>
+</pre>

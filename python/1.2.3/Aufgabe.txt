@@ -1,0 +1,11 @@
+Aufgabe 1.2.3
+======================
+Mit dem Zeichen % kann man in Python den Rest ermitteln,
+der bei Division einer Zahl durch eine andere entsteht. Zum Beispiel
+ergibt 17%4 den Wert 1, weil 17 geteilt durch 4 das Ergebnis 4
+mit dem Rest 1 liefert.
+
+Schreibe ein Programm, das den Rest ermittelt, den `a` * `b`
+bei Division durch `c` liefert, wobei `a` den Wert 1234, `b` den
+Wert 4321 und `c` den Wert 111 hat. Verwende dabei Variablen
+`a`, `b`, `c` und `rest`. Gib anschließend den Wert der Variable `rest` aus.

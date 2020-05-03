@@ -1,0 +1,10 @@
+Aufgabe 1.2.1
+======================
+Eine Milchkuh liefert in einem Jahr etwa 4500 Liter Milch.
+Ein Bauer hat 19 Milchkühe. Wieviel Milch liefert der
+Bauer in der Molkerei ab?
+
+Schreibe ein Programm, das diese Frage beantwortet,
+und verwende dabei Variablen Milch und Kuehe (oder Kühe).
+
+Gebe das Ergebnis direkt aus und speichere es nicht in einer der bestehenden Variablen.

@@ -1,0 +1,8 @@
+Aufgabe 3.4.2
+======================
+<p>Schreibe ein Programm, das die Schildköte wild herumfahren lässt.
+Lasse sie eine zufällige Anzahl zwischen 10 und 40 Linien zeichnen,
+die eine zufällige Länge zwischen 10 und 100 haben, und sie nach jeder
+Linie um zufälligen Winkel zwischen 10 und 170 Grad drehen.</p>
+<p>Wenn Du willst, kannst sich die Schildkröte auch zufällig nach
+links oder rechts drehen

@@ -1,0 +1,14 @@
+Aufgabe 4.2.2
+======================
+<p>Schreibe ein Programm, mit dem sich der Computer eine Zahl
+zwischen 1 und 100 ausdenkt, die Du rätst. Verwende als
+mögliche Antworten Deines Programms
+<ul>
+  <li>Viel zu klein</li>
+  <li>Viel zu groß</li>
+  <li>Zu klein</li>
+  <li>Zu groß</li>
+  <li>Herzlichen Glückwunsch</li>
+</ul>
+<p>Die ersten beiden Antworten sollen gegeben werden, wenn die Zahl
+mehr als 20 zu klein oder zu groß im Vergleich zur ausgedachten Zahl ist. Ansonsten verwende die dritte bzw. vierte Antwort oder beglückwünsche den Nutzer zu seinem Erfolg.

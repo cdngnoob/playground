@@ -1,0 +1,4 @@
+Aufgabe 1.4.1
+======================
+Schreibe ein Programm, das mit der Turtle-Grafik
+ein Quadrat (alle vier Kanten sind gleich lang) mit der Kantenlänge 100 zeichnet.

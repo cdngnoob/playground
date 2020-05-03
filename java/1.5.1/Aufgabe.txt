@@ -1,0 +1,7 @@
+SC P1.5 Attribute Aufgabe1
+======================
+Sieh dir zuerst die Klasse Robot.java an. Dort gibt es ein Attribut  *name*, für das ein Standardwert  gesetzt wird. Gib nun in der **main()**-Methode das Attribut aus, indem du es von *robin* abrufst. 
+
+Weise dann dem Attribut *name* als Wert die Zeichenkette <span style="color:blue">"Robin"</span> zu und gib das Attribut *name* erneut aus.
+
+Hinweis: Beide Ausgaben sollen jeweils in einer eigenen Zeile ausgegeben werden.

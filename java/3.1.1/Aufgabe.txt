@@ -1,0 +1,10 @@
+SC P3.1 Vererbung Aufgabe1
+======================
+Nachdem Robin verloren ging, möchte Duke sich einen neuen Roboter bauen, um weiter gegen Eike bestehen zu können.
+Während der Erstellung von Robin hat Duke einige Pläne für unterschiedlich weit entwickelte Roboter erstellt. Jedes neuere Modell erweitert das jeweils ältere Modell. Du musst ihm dabei helfen, die richtigen Abhängigkeiten zwischen seinen Bauplänen herzustellen.
+
+Betrachte die Klassen **Robot**, **DetectiveRobot** und **FlyingDetectiveRobot**. Realisiere eine sinnvolle Vererbungshierarchie zwischen den Klassen.
+
+Hinweis: Die Vererbungshierarchie ergibt sich aus den Namen der Klassen in logischer Reihenfolge. Außer dem Hinzufügen der Vererbungs-Abhängigkeiten musst du zum Lösen der Aufgabe nichts an den Klassen verändern.
+
+Du kannst in der main-Methode ausprobieren, welches Objekt der Vererbungshierarchie welche Ausgaben liefert bzw. welche Attribute und Methoden von wo aus aufgerufen werden können. Kommentiere dazu die Kommentare ein und verändere den Code beliebig.

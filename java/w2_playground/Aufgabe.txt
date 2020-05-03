@@ -1,0 +1,3 @@
+Spielwiese P 2.5
+======================
+Wir haben hier eine Spielwiese für euch vorbereitet, um mit dem Codeschnipsel aus Quiz 2.5 in Modul Programmieren 2 zu experimentieren.

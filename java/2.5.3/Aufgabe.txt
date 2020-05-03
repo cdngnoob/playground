@@ -1,0 +1,8 @@
+SC P2.5 Primitive Arrays Aufgabe3
+======================
+In dieser Aufgabe üben wir den Umgang mit einem 2-dimensionalen Array.   
+Ein 2-dimensionales Array ist ein Array, dessen Elemente wiederum aus einem Array bestehen. Es ist also eine 2-dimensionale Matrix, die man sich wie eine Tabelle mit Zeilen und Spalten vorstellen kann. Der Zugriff auf ein Element des 2-dimensionalen Arrays erfolgt mittels array[x][y]. So erhältst du zum Beispiel mit array[0][1] das Element der nullten Zeile und ersten Spalte, mit array[3][3] das Element der dritten Zeile und der dritten Spalte.
+
+Als Duke die Absenderinformationen von Eikes E-Mail entschlüsselt hat, wurde Eikes IP nur durch Fragezeichen dargestellt. Duke schaut sich die Absenderinformationen noch einmal genauer an und stellt fest, dass hier ein 2-dimensionales Array verwendet wurde. 
+
+Die Klasse **Email** enthält das 2-dimensionale Array *ipaddress*, das in beiden Dimensionen jeweils eine Länge von 3 hat. Erstelle in der Klasse **Robot** eine Methode **identifyIP()**, die auf die Elemente des Arrays *ipaddress* zugreift. Ein Element enthält eine vollständige IP-Adresse. Die anderen Elemente enthalten ein "x". Gib alle Zeilen aus, um die richtige IP-Adresse zu finden.

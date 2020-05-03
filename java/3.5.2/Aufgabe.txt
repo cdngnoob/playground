@@ -1,0 +1,14 @@
+SC P3.5 Überladen von Methoden (Overload) Aufgabe2
+======================
+In dieser Aufgabe üben wir das Überladen von Methoden mit unterschiedlicher Anzahl von Parametern.
+
+Um verschlossene Türen im Versteck des Bösewichts öffnen zu können, muss Ronja Codewörter unterschiedlich oft in Türkonsolen tippen können.
+
+Ronja soll folgende 2 Methoden haben:
+
+1. Die Methode **tap()**, welche zwei Argumente entgegennimmt. Das erste Argumente soll vom Datentyp String, das zweite Argumente soll vom Datentyp int sein. Die Methode soll den übergebenen String so oft wie im übergebenen int-Wert festgelegt in einer neuen Zeile ausgeben.
+
+2. Die Methode **tap()**, die lediglich ein Argument vom Datentyp String entgegennimmt.
+Die Methode soll den übergebenen String genau 3 mal in einer neuen Zeile ausgeben. Dazu soll die Implementierung der Funktion **tap()**, die zwei Argumente entgegennimmt, mit dem übergebenen String und dem int-Wert <span style="color:blue">3</span> als Argument aufgerufen werden.
+
+Hinweis: Vermeidet das Duplizieren von Code. Eine Schleife insgesamt sollte genügen.

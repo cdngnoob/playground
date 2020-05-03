@@ -1,0 +1,5 @@
+Aufgabe 3.3.1
+======================
+<p>Schreibe ein Programm, das eine Variable Hauptstädte mit einem
+Dictionary belegt, in dem jedem Bundesland seine Hauptstadt zugeordnet
+ist.

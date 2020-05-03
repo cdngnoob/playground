@@ -1,0 +1,14 @@
+SC P3.4 Überschreiben von Methoden (Override) Aufgabe1
+======================
+Ronjas Verhalten soll auf dem bereits existierenden Code von Robin aufbauen.
+Der alte Code von Robin befindet sich in der Klasse **OldRobot**. 
+
+Die Klasse **Robot** soll von **OldRobot erben**.
+
+Die Methoden von **OldRobot** sollen hierbei von **Robot** überschrieben werden. Dies hat den Grund, dass Teile der Methoden von Robin nicht mehr aktuell sind und Duke Ronjas Verhalten anpassen möchte.
+
+Die Klasse **OldRobot** enthält 2 Methoden **greetUser()** und **getInternalStorageSize()**. Beide Methoden sollen von der Klasse **Robot** überschrieben werden:
+
+**greetUser()** soll den Text <span style="color:blue">"Hallo Duke!"</span> ausgeben.
+
+**getInternalStorageSize()** soll den Wert des Attributs *internalStorageSize* zurückgeben.

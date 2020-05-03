@@ -1,0 +1,11 @@
+Aufgabe 2.2.3
+======================
+<p>Schreibe ein Programm, das gedrehte gleichseitige Dreiecke
+zeichnet (siehe Abbildung). Die Zahl der Dreiecke, ihre Größe,
+und der Winkel, um die sie gedreht sind, kannst Du Dir selbst
+aussuchen.</p>
+<img src="https://open.hpi.de/files/67ec2e55-a1bb-48d6-be7a-302aaef4d041"/>
+<p>Hinweis: Ein gleichseitiges Dreieck entsteht, wenn der Winkel
+im Dreieck 60° beträgt und alle Seiten gleich lang sind.
+Die Schildkröte muss sich an jeder Ecke um 120° nach links oder
+rechts drehen, damit der verbleibende Winkel 60° ergibt.

@@ -1,0 +1,7 @@
+SC P1.1 Ein erstes Programm Aufgabe3
+======================
+Kommentare sind für das Verständnis von Quellcode sehr hilfreich.
+Ändere die einzeiligen Kommentare in den Zeilen 3-5 zu einem mehrzeiligen Kommentar.
+
+Erstelle anschließend eine zweizeilige Ausgabe.
+Schreibe dazu ein Programm, das in der ersten Zeile <span style="color:blue">"Hallo, ich bin Duke."</span> und in der zweiten Zeile <span style="color:blue">"Wie heisst Du?"</span> ausgibt.

@@ -1,0 +1,11 @@
+Java Einstieg Woche2 Bonus1c
+======================
+Robin möchte gerne Musik machen, oder zumindest das, was er dafür hält.
+
+Schreibe dafür ein Programm, das von 1 bis 50 hochzählt.
+Ist die jeweilige Zahl durch 3 (aber nicht durch 7) teilbar, soll <span style="color:blue">ding</span> ausgegeben werden.
+Ist die jeweilige Zahl durch 7 (aber nicht durch 3) teilbar, soll <span style="color:blue">dong</span> ausgegeben werden.
+In dem Fall, dass die Zahl sowohl durch 3 als auch durch 7 teilbar ist, soll <span style="color:blue">ding-dong</span> ausgegeben werden.
+In allen anderen Fällen, soll <span style="color:blue">ping</span> ausgegeben werden.
+
+Hinweis: Überlege vorab, in welcher Reihenfolge die Bedingungen geprüft werden sollen. Dies kann die Lösung vereinfachen. 

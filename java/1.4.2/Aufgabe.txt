@@ -1,0 +1,9 @@
+SC P1.4 Variablen (2) Aufgabe2
+======================
+In dieser Übung rechnen wir mit Variablen vom Datentyp int.
+
+Lege zunächst zwei Variablen vom Datentyp int an. Eine der beiden Variablen soll *a* heißen und den Wert <span style="color:blue">4</span> haben, die andere soll *b* heißen und den Wert <span style="color:blue">7</span> haben.
+
+Berechne anschließend das Ergebnis von (a+b)² und speichere es in der Variable *c* vom Datentyp int. Gib anschließend *c* aus.
+
+Hinweis: (a+b)² entspricht (a+b) mal (a+b) oder auch (a² + 2ab + b²)

@@ -1,0 +1,23 @@
+Aufgabe 2.1.1
+======================
+<p>Schreibe ein Programm, das die größere der Zahlen A und B ausgibt.
+Die Festlegung, welchen Wert A und B haben, wird vom
+Computer getroffen - Dein Programm soll die jeweils richtige Ausgabe
+erzeugen. Beginne dazu Dein Programm mit
+<pre>
+from daten import A,B
+</pre>
+<p>Wenn beispielsweise A den Wert 3 und B den Wert 5 hat, soll Dein
+Programm die Ausgabe<br/>
+<code>5 ist die größere Zahl.</code>
+<br/>
+Falls die beiden Zahlen gleich sind, soll die Ausgabe<br/>
+<code>Beide Zahlen sind gleich.</code><br/>
+erscheinen.
+</p>
+<p>Hinweis: Zum Ausprobieren kannst Du zunächst mit festen Werten arbeiten, zum Beispiel
+<pre>
+A=3
+B=5
+</pre>
+<p>Zum Abgeben musst Du dann die import-Zeile oben benutzen.

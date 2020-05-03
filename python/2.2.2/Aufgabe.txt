@@ -1,0 +1,4 @@
+Aufgabe 2.2.2
+======================
+Schreibe ein Programm, das untereinander alle geraden Zahlen von 0
+bis 25 ausgibt (also jede Zahl in eine neue Zeile).

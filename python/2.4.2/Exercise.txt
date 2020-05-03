@@ -1,0 +1,23 @@
+Aufgabe 2.4.2
+======================
+<p>Schreibe ein Programm, das das erste Wort in einer Liste Namen
+findet, das mit D beginnt. Die Liste bekommst Du mit
+<pre>
+from daten import Namen
+</pre>
+<p>Hinweis: Es gibt zwei Möglichkeiten:
+<ol>
+<li>Du schreibst eine while-Schleife, die der Reihe nach die Namen
+  anschaut, solange sie nicht mit D anfangen. Dazu verwendest Du einen
+  Zähler, der bei 0 anfängt, und der Reihe nach alle Namen abfragt.
+<li>Du schreibst eine for-Schleife, die alle Namen durchgeht und
+  abbricht (mit <code>break</code>), wenn ein Name mit D gefunden
+  wurde
+
+<p>Hinweis: Den ersten Buchstaben eines Wortes <code>W</code> bekommst Du mit <code>W[0]</code>.
+Probier's aus!
+<p>Hinweis: Zum Ausprobieren kannst Du zunächst mit festen Werten arbeiten, zum Beispiel
+<pre>
+Namen =  ['Elias', 'Julia', 'Daniel', 'Dominic']
+</pre>
+<p>Zum Abgeben musst Du dann die import-Zeile oben benutzen.

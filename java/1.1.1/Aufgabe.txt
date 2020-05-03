@@ -1,0 +1,7 @@
+SC P1.1 Ein erstes Programm Aufgabe1
+======================
+In dieser Aufgabe üben wir, wie man eine Ausgabe auf dem Bildschirm erzeugen kann.
+
+Benutzt dazu die Methode **System.out.println()**.
+
+Schreibe ein Programm, das in einer Zeile <span style="color:blue">"Der Anfang einer Reise!"</span> ausgibt.

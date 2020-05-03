@@ -1,0 +1,5 @@
+SC P1.3 Variablen (1) Aufgabe1
+======================
+In dieser Aufgabe üben wir, wie man Variablen anlegt und diese nutzt.
+Lege eine Variable vom Datentyp String an, mit dem Bezeichner *greeting* und dem Wert <span style="color:blue">"Willkommen Duke."</span> <br>
+Gib anschließend den Inhalt der Variable *greeting* aus.

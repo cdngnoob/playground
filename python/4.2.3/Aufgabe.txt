@@ -1,0 +1,27 @@
+Aufgabe 4.2.3
+======================
+<p>Schreibe ein Programm, das eine Zahl zwischen 1 und 100 rät, die
+der Nutzer sich ausgedacht hat. Der Nutzer soll dann mit einem
+Buchstaben antworten, ob die Zahl, die das Programm geraten hat,
+zu klein, zu groß, oder richtig ist, mit den Befehlen
+<ul>
+  <li>r (richtig)
+  <li>k (die geratene Zahl ist zu klein)
+  <li>g (die geratene Zahl ist zu groß)
+</ul>
+<p>Ein möglicher Dialog könnte sein
+<pre>
+50? k
+75? g
+62? g
+56? k
+59? r
+</pre>
+<p>Versuche das Programm so zu schreiben, dass es mit möglichst
+wenig Versuchen auskommt. Es gibt eine Lösung, die immer mit 7 oder
+weniger Versuchen auskommt, aber eine Lösung, die immer mit weniger
+als 20 Versuchen auskommt, ist ganz gut. Eine Lösung, die
+bis zu 100 Versuche braucht, wird ebenfalls akzeptiert.
+<p>Hinweis: Achte darauf, dass die eingegebene Zahl in der gleichen
+Zeile wie die Frage steht. Das kannst Du erreichen, indem Du den
+Text der Frage als Parameter an input() übergibst.

@@ -1,0 +1,7 @@
+SC P2.4 Schleifen Aufgabe2
+======================
+In dieser Aufgabe üben wir den Umgang mit while-Schleifen.
+
+Schreibe eine Methode **greaterTen()**, die solange Zufallszahlen vom Typ int erzeugt, bis die erzeugte Zahl größer als 10 ist. Diese Zahl soll dann von der Methode zurückgegeben werden. 
+
+Zufallszahlen kannst du wie in der vorherigen Aufgabe mit der Methode **giveNumber()** der Klasse RandomNumber erzeugen.

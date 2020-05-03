@@ -1,0 +1,5 @@
+SC P3.8 This is super Aufgabe1
+======================
+In dieser Aufgabe üben wir die Nutzung von Konstruktoraufrufen der eigenen Klasse mit **this()**.
+
+Füge der Klasse **Robot** zusätzlich zum bestehenden einen weiteren Konstruktor hinzu. Dieser soll keine Parameter annehmen und den bereits bestehenden Konstruktor mit einem Parameter vom Typ String mit dem Wert <span style="color:blue">"Duke helfen"</span> aufrufen.

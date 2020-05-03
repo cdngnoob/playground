@@ -1,0 +1,13 @@
+SC P1.6 Methoden Aufgabe2
+======================
+In dieser Aufgabe üben wir das Erstellen eigener Klassen mit deren Methoden.
+
+Schreibe eine Klasse **ReadingRobot** in der Datei ReadingRobot.java. 
+
+Ergänze in der Klasse **ReadingRobot** eine Methode **giveTask()**.
+
+Diese Methode soll die Zeichenkette <span style="color:blue">"Ich kann lesen."</span> auf einer eigenen Zeile ausgeben.
+
+Erzeuge in der Methode **main()** der Klasse **Story** ein Objekt *bookworm* der Klasse **ReadingRobot**. 
+
+Rufe auf diesem Objekt die Methode **giveTask()** auf. Achte darauf, dass die Methode **giveTask()** zuerst auf *robin*, und erst dann auf *bookworm* aufgerufen wird.

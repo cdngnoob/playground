@@ -1,0 +1,11 @@
+Aufgabe 4.4.3
+======================
+<p>Schreibe ein Programm, bei dem die Schildkröte vor der Maus
+davonläuft.
+<p>Bei jedem Mausklick soll das Programm prüfen, ob der Click in der
+Nähe der Schildkröte war (+-10 Einheiten für x und y). Falls ja, soll
+die Schildkröte an eine zufällige andere Position laufen.
+<p>Hinweis: die aktuelle Position der Schildkröte erhältst Du mit
+<pre>
+x, y = pos()
+</pre>

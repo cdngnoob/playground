@@ -1,0 +1,13 @@
+SC P2.3 Verzweigungen Aufgabe3
+======================
+In dieser Aufgabe wollen wir die Bedingung einer if-Verzweigung abhängig von einem Parameter machen.
+
+Robin soll etwas mehr über Zahlen lernen: er soll prüfen können, ob eine beliebige Zahl durch 2 teilbar ist.
+
+Erstelle dazu zuerst eine Methode **testNumber()**, die einen Parameter vom Typ int annimmt.
+
+Ergänze anschließend in der Methode **testNumber()** eine if-Verzweigung, die prüft ob der Eingabeparameter durch 2 teilbar ist.
+
+Ist dies der Fall, soll die Methode den Text <span style="color:blue">"Die Zahl ist durch 2 teilbar!"</span> auf dem Bildschirm ausgeben, wenn nicht, soll der Text <span style="color:blue">"Die Zahl ist nicht durch 2 teilbar!"</span> ausgegeben werden.
+
+Hinweis: Verwendet den Modulo Operator, den ihr bereits Woche 1 kennengelernt habt.

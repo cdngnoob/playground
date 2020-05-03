@@ -1,0 +1,11 @@
+Aufgabe 1.3.2
+======================
+Schreibe ein Programm, das die Ausgabe von
+<a
+href="https://codeocean.openhpi.de/exercises/89/implement"
+target='_blank'>Aufgabe 1.2.1</a> in der
+Form<br/>
+<code>Der Bauer liefert XXX Liter Milch in der Molkerei ab.</code>
+<br/>
+ausgibt, wobei für XXX die richtige Zahl eingetragen wird. Verwende
+dazu die Operation format().

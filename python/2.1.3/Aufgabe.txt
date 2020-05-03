@@ -1,0 +1,22 @@
+Aufgabe 2.1.3
+======================
+<p> Schreibe ein Programm, das für eine Variable Hunde ausgibt,
+wie viele es sind, und zwar in der Form
+<ul>
+<li> Wir haben keinen Hund.
+<li> Wir haben einen Hund.
+<li> Wir haben zwei Hunde.
+<li> Wir haben viele Hunde.
+</ul>
+Die Variable Hunde erhältst Du durch
+<pre>
+from daten import Hunde
+</pre>
+</p>
+<p>Hinweis: Zum Ausprobieren kannst Du zunächst mit festen Werten arbeiten, zum Beispiel
+<pre>
+Hunde = 2
+</pre>
+<p>Zum Abgeben musst Du dann die import-Zeile oben benutzen.
+<p>Hinweis: Wenn Du die Fehlermeldung IndentationError bekommst,
+bedeutet das, dass die Zeilen nicht richtig eingerückt sind.

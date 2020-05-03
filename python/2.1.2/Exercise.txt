@@ -1,0 +1,24 @@
+Aufgabe 2.1.2
+======================
+<p>Schreibe ein Programm, das für eine gegebene Zahl A den Absolutwert
+ausgibt. Der Absolutwert erhältst Du, wenn Du das Vorzeichen der
+Zahl weglässt: für -5 ist der Absolutwert also 5; für 5 (also +5)
+ist der Absolutwert ebenfalls 5. Die vom Computer vorgegebene Zahl erhältst
+Du, indem Du das Programm mit
+<pre>
+from daten import A
+</pre>
+beginnst.</p>
+<p>Du musst keinen ganzen Satz ausgeben; es reicht, wenn Dein Programm
+bei -5 einfach
+<pre>5</pre>
+ausgibt.
+<p>Hinweis: Zum Ausprobieren kannst Du zunächst mit festen Werten arbeiten, zum Beispiel
+<pre>
+A=-5
+</pre>
+<p>Zum Abgeben musst Du dann die import-Zeile oben benutzen.
+<p>Hinweis: Wenn Du die Fehlermeldung IndentationError bekommst,
+bedeutet das, dass die Zeilen nicht richtig eingerückt sind.
+<p>Hinweis: Um für eine Zahl A das Vorzeichen umzukehren, kann
+man -A schreiben, oder mit -1 multiplizieren.

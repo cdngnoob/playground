@@ -1,0 +1,9 @@
+SC P3.5 Überladen von Methoden (Overload) Aufgabe3
+======================
+In dieser Aufgabe wird näher auf den Unterschied zwischen Überschreiben (Override) und Überladen (Overload) eingegangen. Dies geschieht am Beispiel des Papageis Paco.
+
+Die Klasse **Parrot** erbt von der Superklasse **Animal**. 
+
+Override: Überschreibe in der Klasse **Parrot** die Methode **move()**, sodass <span style="color:blue">"Ich fliege"</span> ausgegeben wird. 
+
+Overload: Überlade anschließend die Methode **speak()** der Klasse **Parrot**, sodass diese einen Parameter vom Typ String annimmt. Dieser soll von der Methode **speak()** ausgegeben werden.

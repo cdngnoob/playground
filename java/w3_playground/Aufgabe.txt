@@ -1,0 +1,5 @@
+SC P3 Spielwiese
+======================
+Wir haben euch hier eine kleine Klassenhierarchie bereitgestellt mit der ihr etwas experimentieren könnt.
+In der Klasse Story haben wir einige Experimente vorgeschlagen. Diese Liste ist natürlich nicht vollständig. 
+Ihr könnt euch gerne eigene Experimente überlegen.  Wir haben hier auch <a href="https://open.hpi.de/courses/javaeinstieg2017/question/8bbce7ad-620d-46f3-b711-b03214eac799" target="_blank">einen Thread zum Diskutieren der Aufgabe im Forum</a> vorbereitet.

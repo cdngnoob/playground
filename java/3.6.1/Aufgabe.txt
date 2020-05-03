@@ -1,0 +1,9 @@
+SC P3.6 Abstrakte Klassen Aufgabe1
+======================
+Ronja macht sich auf den Weg zur Basis des Bösewichts. Dort angekommen, muss sie zunächst das Tor des Haupteingangs öffnen.
+
+Durch ihren verbesserten Bauplan kann sie den Schließmechanismus des Haupteingangs überschreiben und sich so Zutritt verschaffen.
+
+Die abstrakte Klasse **AbstractOpener** enthält eine abstrakte Methode **open()**. 
+
+Diese soll in der Klasse **MainEntranceOpener** überschrieben werden und <span style="color:blue">true</span> zurückgeben, wenn der übergebene Parameter mit der Zeichenkette <span style="color:blue">"MainEntrance"</span> übereinstimmt. Sonst soll die Methode <span style="color:blue">false</span> zurück geben.

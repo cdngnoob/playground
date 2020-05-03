@@ -1,0 +1,9 @@
+Aufgabe 3.3.3
+======================
+<p>Schreibe eine Funktion spiegeln, die ein Dictionary als Parameter
+erwartet und ein Dictionary liefert, bei dem die Schlüssel und Werte
+vertauscht sind.</p>
+<p>Du kannst Deine Funktion mit dem Dictionary Hauptstädte
+ausprobieren und solltest ein Dictionary erhalten, mit dem
+für jede Hauptstadt ermittelt werden kann, zu welchem
+Bundesland sie gehört.

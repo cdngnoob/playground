@@ -1,0 +1,7 @@
+SC P3.7 Polymorphie Aufgabe2
+======================
+In der folgenden Aufgabe werden wir Polymorphie nutzen, um Objekte verschiedener Subklassen derselben Superklasse an eine Methode zu übergeben.
+
+In der Klasse **Story** werden zwei Objekte initialisiert: eines vom Typ **ReadingRobot** und eines vom Typ **DetectiveRobot**. Beide erben von der abstrakten Superklasse **Robot**.
+
+Schreibe in der Klasse **RobotCharger** eine Methode **chargeRobot()**, die sowohl mit einem Objekt vom Typ **DetectiveRobot** als auch mit einem Objekt vom Typ **ReadingRobot** als Argument aufgerufen werden kann. In der Methode soll das Attribut *batteryRuntime* des übergebenen Objekts um <span style="color:blue">7</span> erhöht werden.

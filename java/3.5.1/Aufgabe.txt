@@ -1,0 +1,15 @@
+SC P3.5 Überladen von Methoden (Overload) Aufgabe1
+======================
+In dieser Aufgabe üben wir das Überladen von Methoden.
+
+In Klasse **MathRobot** sollen 4 verschiedene Varianten der Methode  **addition()** implementiert werden.
+
+1. Die erste Methode nimmt 2 Argumente ausschließlich vom Datentyp int entgegen. Diese Methode soll einen Wert vom Typ int zurückgeben.
+
+2. Die zweite Methode nimmt 3 Argumente ausschließlich vom Datentyp int entgegen. Diese Methode soll einen Wert vom Typ int zurückgeben.
+
+3. Die dritte Methode nimmt 2 Argumente ausschließlich vom Datentyp double entgegen. Diese Methode soll einen Wert vom Typ double zurückgeben.
+
+4. Die vierte Methode nimmt 3 Argumente ausschließlich vom Datentyp double entgegen. Diese Methode soll einen Wert vom Typ double zurückgeben.
+
+In den Methoden sollen jeweils alle Argumente addiert und das Ergebnis zurückgegeben werden.

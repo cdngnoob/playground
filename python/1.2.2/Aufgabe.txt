@@ -1,0 +1,14 @@
+Aufgabe 1.2.2
+======================
+Eine Autofahrt von Berlin nach Hamburg dauert 2 Stunden
+und 48 Minuten. Wie viele Sekunden sind das?
+
+Schreibe ein Programm, das diese Frage beantwortet,
+und schreibe dazu die Werte aus der Aufgabe in die Variablen
+`stunden` und `minuten` und das Ergebnis in die Variable `sekunden`.
+Gib dann `sekunden` aus.
+
+Hinweis: Eine Stunde hat 60 Minuten, eine Minute 60 Sekunden.
+Du kannst das Ergebnis in mehreren Schritten ausrechnen:
+Lege eine weitere Variable an, die die Gesamtminutenzahl ermittelt,
+und rechne diese dann in Sekunden um.

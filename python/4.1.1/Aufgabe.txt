@@ -1,0 +1,4 @@
+Aufgabe 4.1.1
+======================
+<p>Schreibe ein Programm, das Deinen Namen und Dein Lieblingstier
+abfragt, und dann beides in einem Satz ausgibt.

@@ -1,0 +1,10 @@
+SC P3.4 Überschreiben von Methoden (Override) Aufgabe2
+======================
+Als nächstes üben wir den Zugriff auf überschriebene Funktionen der Superklasse.
+
+Die Klasse **OldRobot** enthält eine Funktion **setStorage()**. Überschreibe diese Funktion in der Klasse **Robot**. 
+
+Die Funktion **setStorage()** der Klasse **Robot** soll prüfen, ob der übergebene Wert kleiner gleich <span style="color:blue">1000</span> ist. 
+Ist dies der Fall, soll der Wert im Attribut gespeichert werden, indem die Methode **setStorage()** der Superklasse aufgerufen wird. 
+
+Ist die übergebene Zahl größer, so soll die Funktion **setStorage()** der Superklasse mit dem Argument <span style="color:blue">1000</span>  aufgerufen werden und die Differenz zwischen dem übergebenen Wert und <span style="color:blue">1000</span>  soll im Attribut *additionalStorageSize* gespeichert werden.

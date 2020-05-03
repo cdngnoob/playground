@@ -1,0 +1,6 @@
+Aufgabe 4.4.2
+======================
+<p>Schreibe ein Programm, das bei jedem Mausklick die Schildkröte an
+den "gespiegelten" Punkt setzt (bezüglich des Koordinatenursprungs).
+Wenn also an die Koordinaten x=-70, y=30 geklickt wird, soll die Schildkröte
+zu den Koordinaten x=70, y=-30 gehen.</p>

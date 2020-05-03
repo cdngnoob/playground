@@ -1,0 +1,9 @@
+SC P2.3 Verzweigungen Aufgabe1
+======================
+In dieser Aufgabe schreiben wir eine einfache if-Bedingung.
+
+Um rechtzeitig festzustellen, wann Robins Batterie leer ist, soll er in der Lage sein, einen kritischen Ladezustand zu signalisieren.
+
+Betrachte in der Klasse **Robot** die Methode **isBatteryRuntimeLow()**. Diese soll <span style="color:blue">true</span> zurückgeben, wenn der Wert des Attributes *batteryRuntime* kleiner als 2 ist. Andernfalls soll <span style="color:blue">false</span> zurückgegeben werden.
+
+Ergänze in der if-Bedingung die nötigen Rückgabewerte.

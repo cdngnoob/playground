@@ -1,0 +1,10 @@
+SC P2.4 Schleifen Aufgabe3
+======================
+Duke will die E-Mail von Eike etwas genauer unter die Lupe nehmen, um weitere Hinweise zu erhalten. Die Absenderinformationen der E-Mail sind verschlüsselt, jedoch sollte Robin mit etwas Hilfe den Header entschlüsseln können.
+
+Die Klasse EncryptedEMail hat eine Methode **decryptChar(x, y)**, welche das Zeichen an der Stelle *(x, y)* (Zeile, Spalte) der verschlüsselten E-Mail zurückgibt.
+
+Entschlüssele in der Methode **decryptSender()**  den gesamten Inhalt der Klasse EncryptedEMail und gebe alle Zeichen aus. Lege dazu zuerst die Methode **decryptSender()** an und nutze in ihr zwei ineinander  geschachtelte for-Schleifen. Wenn ihr mehr Informationen zu geschachtelten Schleifen braucht, findet ihr diese im Deep-Dive der Woche 2.
+
+Der Header umfasst 4 Zeilen mit jeweils 28 Zeichen pro Zeile (davon sind einige Zeichen Leerzeichen). <br>
+Nutze zur Ausgabe der Zeichen die Methode **System.out.print()**,  welche das korrekte Zeichen an der jeweiligen Stelle übergeben bekommt und füge die Zeilenumbrüche an der richtigen Stelle mit **System.out.println()** ein.  Jede entschlüsselte Zeile soll in einer neuen Zeile ausgegeben werden.

@@ -1,0 +1,6 @@
+Java Einstieg (2017) Woche2 Kapitel4 Aufgabe0 
+======================
+Robin soll aufsteigende Zahlen aufsagen können. Er fängt daher erst einmal mit den Zahlen von 1 bis 20 (inklusive) an.
+Verwende dafür eine for-Schleife.
+
+Hinweis: Falls du magst, kannst du das übergebene Argument im Methodenaufruf von *countTo* in **Story** von 20 auf eine von dir gewünschte Zahl verändern, um dein Programm anderweitig zu testen.

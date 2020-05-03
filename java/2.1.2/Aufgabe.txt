@@ -1,0 +1,14 @@
+SC P2.1 Parameter Aufgabe2
+======================
+In dieser Übung sollen zwei Parameter einer Methode zusammengefügt zurückgegeben werden.
+
+Schreibe eine Methode **completeName()** in der Klasse **Robot**, welche zwei Parameter vom Datentyp String entgegennimmt.
+
+Der Rückgabewert soll ebenfalls vom Datentyp String sein und die beiden übergebenen Parameter mit einem Leerzeichen zwischen den Parametern verknüpfen, sodass bei der Übergabe der Parameter:
+
+1. Parameter: <span style="color:blue">”Robin"</span>
+2. Parameter: <span style="color:blue">”Suchroboter"</span>
+
+<span style="color:blue">"Robin Suchroboter"</span> entsteht.
+
+Gib den zusammengesetzten String zurück.

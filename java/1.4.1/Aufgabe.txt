@@ -1,0 +1,6 @@
+SC P1.4 Variablen (2) Aufgabe1
+======================
+In dieser Aufgabe werden mehrere Variablen verwendet, für die jedoch noch der richtige Datentyp fehlt.
+
+Ergänze für die Variablen *name*, *age* und *runtime* den jeweils am besten passenden Datentyp.
+Die gewünschten Datentypen sind dabei aus den Videos bekannt.

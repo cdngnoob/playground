@@ -1,0 +1,9 @@
+SC P2.1 Parameter Aufgabe1
+======================
+In dieser Übung geht es um Methoden mit Parameterübergabe.
+
+Ergänze in der Klasse **Robot** die Methode **speakTwice()**. 
+
+Diese Methode soll nichts zurückgeben (void) und einen String als Parameter entgegennehmen.
+
+Der übergebene String soll zwei mal hintereinander (in zwei separaten Zeilen) ausgegeben werden.

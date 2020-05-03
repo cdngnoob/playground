@@ -1,0 +1,7 @@
+SC P3.1 Vererbung Aufgabe2
+======================
+Duke beginnt erste Konfigurationen an seinem neuen Roboter vorzunehmen. 
+
+Ergänze die Klasse **DetectiveRobot** so, dass sie von **Robot** erbt. 
+
+Füge dem Konstruktor der Klasse **DetectiveRobot** zwei Zuweisungen hinzu, sodass dem Attribut *batteryRuntime* der Superklasse der Wert <span style="color:blue">5</span> und dem Attribut *canSpeak* der Wert <span style="color:blue">true</span> zugewiesen wird.

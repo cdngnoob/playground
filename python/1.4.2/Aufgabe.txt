@@ -1,0 +1,8 @@
+Aufgabe 1.4.2
+======================
+Schreibe ein Programm, das mit der TurtleGrafik zwei
+nebeneinanderliegende Quadrate (siehe Bild) mit der
+Kantenlänge 100 ausgibt. Ob die gemeinsame Kante zweimal
+gezeichnet wird oder nicht, ist Euch überlassen.
+<p>
+<img src='https://open.hpi.de/files/e9aa3961-c2fd-426d-958e-cab2c23de44d'>

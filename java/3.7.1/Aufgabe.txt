@@ -1,0 +1,11 @@
+SC P3.7 Polymorphie Aufgabe1
+======================
+In dieser Aufgabe wollen wir uns etwas näher mit Polymorphie beschäftigen. 
+
+In der Klasse **Story** wird ein Array *robots* initialisiert und mit jeweils einem Objekt der Klasse **DetectiveRobot**, sowie einem Objekt der Klasse **ReadingRobot** befüllt. Beide Klassen erben von der abstrakten Superklasse **Robot**, deshalb können sie in einem Array dieses Datentyps zusammen gespeichert werden.
+
+Ergänze in der Klasse **Robot** eine Methode **saySomething()**.
+
+Implementiere in der Klasse **DetectiveRobot** die Methode **saySomething()**, sodass <span style="color:blue">"Ich suche Paco"</span> ausgegeben wird. 
+
+Implementiere in der Klasse **ReadingRobot** die Methode **saySomething()**, sodass <span style="color:blue">"Ich lese Nachrichten"</span> ausgegeben wird.

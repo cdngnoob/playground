@@ -1,0 +1,9 @@
+Java Einstieg Woche2 Bonus4
+======================
+Duke hat einen Tagebucheintrag in Robins Speicher gefunden.
+Robin hat diesen allerdings falsch abgespeichert, so dass alle Wörter in umgedrehter Reihenfolge abgelegt wurden.
+
+Duke weiß, dass die Geschichte in einem Array vorliegt, er muss also nur die Wörter in umgedrehter Reihenfolge auslesen und ein Leerzeichen zwischen die Wörter setzen.
+Hilf Duke und gib die Geschichte in einer Zeile auf dem Bildschirm aus.
+
+Hinweis: Du kannst in Schleifen auch rückwärts zählen. Für Ausgaben ohne Zeilenumbruch wird **System.out.print()** verwendet.

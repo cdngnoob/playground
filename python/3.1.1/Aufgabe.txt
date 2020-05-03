@@ -1,0 +1,6 @@
+Aufgabe 3.1.1
+======================
+<p>Schreibe eine Funktion Weihnachtsbaum, die 2 Paramater x und y
+erwartet und den Weihnachtsbaum an diesen Koordinaten zeichnet.
+Die genaue Form des Weihnachtsbaums ist Dir überlassen.</p>
+<p>Rufe dann die Funktion mit den Koordinaten x=50 und y=100 auf.

@@ -1,0 +1,3 @@
+Aufgabe 1.1.2
+======================
+Schreibe ein Programm, das das Produkt von 1234 und 4321 ausrechnet und ausgibt.

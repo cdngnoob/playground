@@ -1,0 +1,9 @@
+Aufgabe 4.3.3
+======================
+<p>Schreibe ein Programm, das ein Schiff im Kreis fahren lässt und
+dabei eine Kreislinie zeichnet.
+<p>Hinweis: eine wirkliche Kreislinie zu verfolgen, ist nicht möglich;
+eine ungefähre Kreislinie reicht. Zum Beispiel könnte das Schiff auf
+einem gleichseitigen 20-Eck fahren (die Abbildung zeigt so ein
+20-Eck). In einem 20-Eck ist jeder Winkel 360°/20 = 18°.</p>
+<img src='https://open.hpi.de/files/fee7549d-12f9-4fe6-ba08-984b4f58f349'/>

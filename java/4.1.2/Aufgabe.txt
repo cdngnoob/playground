@@ -1,0 +1,7 @@
+SC P4.1 Objektdatentypen Aufgabe2
+======================
+In dieser Aufgabe vergleichen wir zwei Roboter-Objekte miteinander.
+
+Schreibe dazu eine Methode **equals()** in der Klasse **Robot**. Die Methode soll **true** zurückgeben, wenn die zu vergleichenden Roboter in allen Attributen gleich sind. Wenn die Roboter sich in mindestens einem Attribut unterscheiden, soll sie **false** zurückgeben.
+
+Hinweis: Du kannst eine eigene **equals()**-Methode erstellen oder die **equals()**-Methode von Object überschreiben (wie im Video gezeigt).

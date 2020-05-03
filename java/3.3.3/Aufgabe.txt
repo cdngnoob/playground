@@ -1,0 +1,9 @@
+SC P3.3 Kapselung Aufgabe3
+======================
+Duke muss noch einige weitere Sicherheitsmaßnahmen vornehmen. Du sollst dabei entscheiden, welche Maßnahmen sinnvoll sind.
+
+Betrachte die beiden Klassen **Story** und **Robot**:
+
+Die Klasse **Robot** hat eine Reihe von Methoden und Attributen, bei allen fehlt jedoch der Sichtbarkeits-Modifikator.
+
+Schränke den Zugriff auf die Methoden und Attribute weitestgehend ein, sodass nur die Zugriffe, die von **Story** benötigt werden, möglich sind.

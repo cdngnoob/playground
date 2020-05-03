@@ -1,0 +1,19 @@
+SC P2.3 Verzweigungen Aufgabe2
+======================
+In dieser Aufgabe üben wir den Umgang mit if-Bedingungen und treffen Entscheidungen anhand von booleschen Ausdrücken.
+
+Robin soll Detektiv Duke helfen, Hinweise zu bearbeiten. Dabei soll Robin folgendes Verhalten besitzen:
+
+ - Wenn Duke ***eine Aufgabe*** (Attribut *hasTask* ist **wahr**) für Robin hat, soll dieser die Aufgabe erledigen, insofern *taskCounter* kleiner als **3** ist. Erledigt Robin eine Aufgabe, erhöht sich *taskCounter* um **1**. Auf dem Bildschirm soll <span style="color:blue">"Das erledige ich gern für dich."</span> ausgegeben werden.
+
+ - Falls Robins *taskCounter* **3** erreicht, soll er eine ***Pause*** machen, statt die Aufgabe zu erledigen. Auf dem Bildschirm soll <span style="color:blue">"Duke! Ich brauch Mal ne Pause... Frag mich später nochmal!"</span> ausgegeben werden. Beim nächsten Aufruf soll er wieder Aufgaben ausführen (bis *taskCounter* erneut 3 erreicht, dann soll er wieder Pause machen).
+
+ - Sollte Robin ***keine Aufgabe*** (Attribut *hasTask* ist **falsch**) haben, soll <span style="color:blue">"Ich hab gerade nichts zu tun."</span>  auf dem Bildschirm ausgegeben werden.
+
+ - Außerdem soll Robin, statt eine Aufgabe auszuführen, immer seine ***Batterie laden***, wenn diese leer (Attribut *batteryEmpty* ist **wahr**) ist. Auf dem Bildschirm soll <span style="color:blue">"Ich lade meine Batterie."</span> ausgegeben werden. Im nächsten Schritt soll er wieder Aufgaben ausführen können.
+
+Ergänze die if-Bedingungen in der Methode **helpDuke()** durch geeignete boolesche Ausdrücke. Verwende dazu die Attribute *hasTask*, *batteryEmpty* und *taskCounter*. Ergänze außerdem die Ausgaben, so dass der jeweils entsprechende Satz erzeugt wird. Denk auch daran, die Atrtibute in den Verzweigungen entsprechend anzupassen, also hochzuzählen beziehungsweise zurückzusetzen.
+
+Hinweise: Die hier angegebene Reihenfolge von Robins Aufgaben muss für die Umsetzung nicht die beste sein. Entscheide selbst, in welcher Reihenfolge welcher Ausdruck abgefragt wird.
+
+Die Aufgabe kann mit oder ohne Verknüpfung von mehreren booleschen Ausdrücken gelöst werden. Diskutiert im Forum, welche Möglichkeiten es hier gibt und was besser oder schlechter geeignet ist.

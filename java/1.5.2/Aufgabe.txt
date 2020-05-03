@@ -1,0 +1,9 @@
+SC P1.5 Attribute Aufgabe2
+======================
+In dieser Aufgabe üben wir das Instanziieren von Objekten und das Anlegen von Attributen.
+
+Lege in der Klasse **Robot** ein Attribut mit dem Bezeichner *task* vom Datentyp String an.
+
+Instanziiere in der Klasse **Story** in der Methode **main()** ein Objekt **Robot** mit dem Bezeichner *robin*.
+
+Weise dem Attribut *task* von *robin* die Zeichenkette <span style="color:blue">"Paco finden."</span> zu und gebe das Attribut aus.

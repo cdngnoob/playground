@@ -1,0 +1,18 @@
+Aufgabe 3.2.2
+======================
+<p>Schreibe eine Funktion Anzahl_Vokale, die für ein Wort bestimmt,
+wie viele Vokale es hat und diese Anzahl zurückgibt. Umlaute
+zählen hier auch als Vokale; Großbuchstaben müssen nicht (aber
+dürfen) berücksichtigt werden.
+Z.B. soll sie für das Wort "bestimmt" den Wert 2 als Ergebnis
+liefern.</p>
+<p>Schreibe dann eine Funktion Viele_Vokale, die zwei Parameter
+hat. Der erste Parameter ist eine Liste von Wörtern, und der zweite
+Parameter eine Anzahl. Das Ergebnis der Funktion ist die Liste der
+Wörte, die mindestens die angegebene Anzahl von Vokalen hat.</p>
+<p>Z.B. soll ein Aufruf von
+<pre>
+Viele_Vokale(['schreibe', 'dann', 'eine', 'funktion', 'viele_vokale,',
+              'die', 'zwei', 'parameter', 'hat'], 4)
+</pre>
+die Liste ['viele_vokale,', 'parameter'] als Ergebnis liefern.

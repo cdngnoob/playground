@@ -1,0 +1,4 @@
+Aufgabe 4.3.1
+======================
+<p>Schreibe ein Programm, das mit Turtle-Grafik ein blaues Schiff über
+den Bildschirm fahren lässt.

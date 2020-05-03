@@ -1,0 +1,3 @@
+SC P1.7 Methoden und Rückgabewerte Aufgabe2
+======================
+Ergänze in der Klasse Robot die Methode **getAge()**. Diese Methode soll den ganzzahligen Wert <span style="color:blue"> 5 </span> (Typ int) zurück geben. Erstelle hierfür ein Attribut innerhalb der Klasse vom Typ int mit dem Bezeichner *age*.

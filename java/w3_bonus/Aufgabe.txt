@@ -1,0 +1,13 @@
+Java Einstieg Woche3 Bonus3
+======================
+In dieser Aufgabe wiederholen wir Vererbung und Override von Methoden.<br>
+Die Klassen **MathRobot** und **CleaningRobot** erben von der Klasse **Robot**. **Robot** implementiert bereits die Methode **printSysteminfo()**. Die beiden Subklassen sollen nun diese Methode ebenfalls implementieren und um folgenden Code erweitern:
+
+- **MathRobot** gibt zusätzlich zu dem Text von **printSysteminfo()** seiner Superklasse sein Attribut *mathEngine* wie folgt aus:<br>
+*"Ich nutze math engine "* gefolgt vom Attribut *mathEngine* 
+
+
+- **CleaningRobot** gibt zusätzlich zu dem Text von **printSysteminfo()** seiner Superklasse sein Attribut task wie folgt aus:<br>
+*"Ich putze gerade: "* gefolgt vom Attribut *task*
+
+Hinweis: Implementiere in den Subklassen die Methode **printSysteminfo()**, in der du die Methode der Superklasse mitbenutzt.

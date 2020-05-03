@@ -1,0 +1,9 @@
+Aufgabe 3.1.2
+======================
+<p>Schreibe eine Funktion Weihnachtsbaum, die 2 Paramater x und y
+erwartet und den Weihnachtsbaum an diesen Koordinaten zeichnet.<p>
+<p>Schreibe eine weitere Funktion Weihnachtswald, die 9
+Weihnachtsbäume an verschiedene Positionen malt. Die Positionen
+kannst Du Dir selber aussuchen (und zum Beispiel die Bäume in
+einem 3x3-Feld anordnen)</p>
+Rufe dann die Funktion Weihnachtswald auf

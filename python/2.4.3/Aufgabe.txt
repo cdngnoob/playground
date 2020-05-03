@@ -1,0 +1,30 @@
+Aufgabe 2.4.3
+======================
+<p>Schreibe ein Programm, das alle Teiler einer Zahl N ausgibt, jeden
+in eine eigene Zeile. Zum Beispiel soll für N = 24 die Ausgabe
+<pre>
+2
+3
+4
+6
+8
+12
+</pre>
+entstehen (die Zahlen 1 und 24 werden also jetzt nicht als Teiler
+verstanden - es sind nur die "echten" Teiler gefragt). Den Wert N erhältst mit
+<pre>
+from daten import N
+</pre>
+</p>
+<p>Hinweis: Um zu bestimmen, ob eine Zahl Teiler ist, kann man fragen,
+ob der Rest bei der Division 0 ist. Die Berechnung des Rests hast Du
+ja schon in Aufgabe 1.2.3 durchgeführt.
+<p>Hinweis: Um die Teiler alle zu bekommen, kann man einfach alle
+Zahlen von 2 bis N-1 ausprobieren. Ein Mensch kann leicht viele von
+diesen Zahlen ausschließen; für ein Programm ist es aber einfacher,
+sie alle durchzuprobieren.
+<p>Hinweis: Zum Ausprobieren kannst Du zunächst mit festen Werten arbeiten, zum Beispiel
+<pre>
+N = 24
+</pre>
+<p>Zum Abgeben musst Du dann die import-Zeile oben benutzen.

@@ -1,0 +1,7 @@
+SC P2.6 Konstruktoren Aufgabe1
+======================
+In dieser Aufgabe üben wir den Umgang mit Konstruktoren.
+
+Um den Bau weiterer Roboter zu erleichtern, will Duke einige Konfigurationen bereits während des Zusammensetzens vornehmen. Dazu gehört zum Beispiel die Batterielaufzeit der Roboter. Diese wollen wir mit Hilfe eines Konstruktors einstellen.
+
+Ergänze den Konstruktor in der Klasse **Robot**, so dass dem Attribut *batteryRuntime* beim Konstruktoraufruf der Wert <span style="color:blue">5</span> zugewiesen wird.

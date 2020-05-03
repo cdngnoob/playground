@@ -1,0 +1,7 @@
+SC P4.1 Objektdatentypen Aufgabe1
+======================
+In dieser Aufgabe üben wir, die **toString()**-Methode der Klasse **Robot** zu überschreiben.
+
+Überschreibe dazu die Methode **toString()** der Klasse **Robot**. Diese soll einen String zurückgeben, der die drei Attribute *name*, *id* und *age* der Klasse **Robot** getrennt durch ein "_" in dieser Reihenfolge zurückgibt. 
+
+Beispiel: "ronja_123abc_5"

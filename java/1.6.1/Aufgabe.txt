@@ -1,0 +1,7 @@
+SC P1.6 Methoden Aufgabe1
+======================
+In dieser Aufgabe üben wir das Erstellen von Objekten und das Aufrufen von deren Methoden.
+
+Erstelle in der Klasse **Story** in der Methode **main()** zusätzlich zum vorhandenen Objekt *robin* ein weiteres Objekt *alex* der Klasse **Robot**.
+
+Rufe auf dem Objekt *alex* die Methode **sayWelcome()** auf.

@@ -1,0 +1,7 @@
+SC P2.6 Konstruktoren Aufgabe2
+======================
+Die Klasse **Task** repräsentiert eine Aufgabe, die Robin erfüllen kann. 
+
+Mithilfe eines Konstruktors soll die Position der Basis des Bösewichtes in der Klasse **Task** gespeichert werden.
+
+Schreibe einen Konstruktor für die Klasse **Task**, so dass er eine Variable vom Typ String als Eingabeparameter annimmt. Dieser soll in dem Attribut *position* gespeichert werden.

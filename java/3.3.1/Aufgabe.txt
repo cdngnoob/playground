@@ -1,0 +1,7 @@
+SC P3.3 Kapselung Aufgabe1
+======================
+Gegeben sei die Klasse **Robot** mit dem Attribut *batteryRuntime*.
+Dieses wird bereits korrekt durch einen Setter und einen Getter gekapselt. Allerdings wäre es hilfreich zu wissen, ob die übergebenen Werte im Setter auch sinnvoll sind. 
+Bevor die Batterielaufzeit gesetzt wird, soll überprüft werden, ob die übergebene Zahl im gültigen Wertebereich für die Batterielaufzeit liegt.
+
+Schreibe dazu eine private Methode **notNegative()**, die innerhalb der Methode **setBatteryRuntime()** aufgerufen wird. Diese soll überprüfen, ob es sich bei dem übergegebenen Parameter um eine positive Zahl oder 0 handelt. 

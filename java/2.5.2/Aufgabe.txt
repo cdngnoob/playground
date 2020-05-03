@@ -1,0 +1,9 @@
+SC P2.5 Primitive Arrays Aufgabe2
+======================
+In dieser Aufgabe wollen wir auf Daten innerhalb eines Arrays zugreifen.
+
+Robin soll seine gespeicherten Hinweise auch wieder ausgeben können. 
+
+Ergänze dazu in der Klasse **Robot** die Methode **giveClue()**. Diese soll einen Parameter vom Typ int entgegennehmen und das Element aus dem Array *clues* an der Stelle, die dem übergebenen Parameter entspricht, zurückgeben.
+
+Ergänze außerdem eine Methode **printClues()**, die nacheinander alle im Array *clues* enthaltenen Elemente ausgibt. Verwende dazu eine for-Schleife, das Attribut **.length** des Arrays *clues* und die Methode **giveClue()**.

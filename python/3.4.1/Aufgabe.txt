@@ -1,0 +1,6 @@
+Aufgabe 3.4.1
+======================
+<p>Schreibe eine Funktion zähle(wurf), die in einem Dictionary zähler
+einen Wurf eines Würfels (also eine Zahl zwischen 1 und 6) mitzählt.
+<p>Schreibe dann eine Funktion würfeln(anzahl), die eine anzahl
+würfe macht und sie zählt

@@ -1,0 +1,14 @@
+SC P3.2 Sichtbarkeiten Aufgabe3
+======================
+Duke will Ronjas Arbeitsspeicher durch Sichtbarkeiten schützen. Nur er soll mit dem korrekten Passwort den Speicher löschen können. Bevor er den Speicher löscht, möchte er ihn noch einmal ausgeben.
+
+Die Klasse **Robot** enthält ein Attribut *internalStorage* vom Typ String. Implementiere eine Methode **flushStorage()**. Diese soll nur innerhalb der Klasse **Robot** aufgerufen werden können und *internalStorage* einen leeren String <span style="color:blue">""</span> zuweisen. 
+
+Implementiere außerdem eine Methode **safeFlushStorage()**, die einen Parameter vom Typ String annimmt.
+
+Es soll möglich sein von der Klasse **Story** aus auf die Methode zuzugreifen. Die Methode **safeFlushStorage()** soll die Methode **flushStorage()** aufrufen, wenn der übergebene String mit <span style="color:blue">"pw_duke"</span> übereinstimmt.
+
+Wenn das Passwort korrekt ist, soll der Inhalt von *internalStorage* ausgegeben werden, bevor er überschrieben wird.
+
+Hinweis: Du kannst zum Vergleich von Strings die Methode **.equals()** nutzen.
+Beispiel: String1.equals(String2);

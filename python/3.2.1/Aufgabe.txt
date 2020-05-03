@@ -1,0 +1,4 @@
+Aufgabe 3.2.1
+======================
+<p>Schreibe eine Funktion Wörter_mit_a, die aus einer Liste mit Wörtern die ermittelt,
+die mit a anfangen.

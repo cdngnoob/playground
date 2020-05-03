@@ -1,0 +1,10 @@
+Aufgabe 2.3.1
+======================
+Schreibe ein Programm, das die Summe der Zahlen aus einer Liste bildet und das Ergebnis ausgibt. Die Liste erhältst Du durch
+<pre>
+from daten import Zahlen
+</pre>
+<p>Hinweis: Zum Ausprobieren kannst Du zunächst mit festen Werten arbeiten, zum Beispiel
+<pre>
+Zahlen = [10, 7, 9, 16, 2, 15]
+</pre>

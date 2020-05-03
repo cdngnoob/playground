@@ -1,0 +1,3 @@
+SC P1.1 Ein erstes Programm Aufgabe2
+======================
+In diesem Programm sind zwei Syntaxfehler versteckt. Finde die Fehler und behebe sie. Anschließend soll das Programm <span style="color:blue">"Hallo Welt."</span> ausgeben.

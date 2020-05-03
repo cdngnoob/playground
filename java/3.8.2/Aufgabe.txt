@@ -1,0 +1,5 @@
+SC P3.8 This is super Aufgabe2
+======================
+In dieser Aufgabe üben wir den Aufruf von Konstruktoren der direkten Superklasse mit **super()**. 
+
+Ergänze den Konstruktor der Klasse **ReadingRobot**. Dieser soll den Konstruktor der Superklasse **Robot** mit einem Parameter vom Datentyp int und dem Wert <span style="color:blue">5</span> aufrufen.

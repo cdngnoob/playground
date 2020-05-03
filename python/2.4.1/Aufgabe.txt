@@ -1,0 +1,14 @@
+Aufgabe 2.4.1
+======================
+Wie viele der ersten natürlichen Zahlen (1,2,3,4,...,N) muss man
+addieren, damit die Summe nicht mehr kleiner als (ein vorgegebenes) X ist.
+Schreibe ein Programm, das diese Frage beantwortet und N ausgibt.
+Das X wird Dir vorgegeben durch
+<pre>
+from daten import X
+</pre>
+<p>Hinweis: Zum Ausprobieren kannst Du zunächst mit festen Werten arbeiten, zum Beispiel
+<pre>
+X=1000
+</pre>
+<p>Zum Abgeben musst Du dann die import-Zeile oben benutzen.

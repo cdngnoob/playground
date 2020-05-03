@@ -1,0 +1,21 @@
+Aufgabe 3.4.3
+======================
+<p>Schreibe ein Programm, das den Wetterbericht der nächsten Woche
+liefert. Das Programm soll lediglich die Temperaturen der nächsten
+Woche vorhersagen, in der Form
+<pre>
+Am Montag werden es XXX °C.
+Am Dienstag werden es XXX °C.
+Am Mittwoch werden es XXX °C.
+Am Donnerstag werden es XXX °C.
+Am Freitag werden es XXX °C.
+Am Sonnabend werden es XXX °C.
+Am Sonntag werden es XXX °C.
+</pre>
+<p>Da wir die Temperaturen der nächsten Woche nicht kennen, lassen
+wir sie vom Zufallszahlengenerator bestimmen. Am Montag soll der
+Wert zwischen 10 und 20 °C liegen, an den nächsten Tagen immer
+nur 2 Grad höher oder tiefer als am vorigen Tag.
+<p>Verwende eine Schleife, um alle Ausgaben zu erzeugen. Um
+die Wochentage richtig auszugeben, kannst Du Dir eine Liste
+aller Wochentage anlegen.

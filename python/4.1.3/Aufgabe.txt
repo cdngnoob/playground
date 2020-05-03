@@ -1,0 +1,21 @@
+Aufgabe 4.1.3
+======================
+<p>Schreibe ein Programm, das beim Lernen von Hauptstädten hilft.
+<p>Das Programm soll zufällig ein Bundesland nennen, dann soll der
+Nutzer die Hauptstadt des Landes eingeben. Das Programm soll dann
+sagen, ob die Eingabe richtig oder falsch war. Danach soll das
+Programm nach der nächsten Hauptstadt fragen, und so weiter, bis
+der Nutzer irgendwann "Ende" eingibt.
+<p>Ein möglicher Dialog mit dem Programm sieht so aus
+<pre>
+Wie lautet die Hauptstadt von Brandenburg? Cottbus
+Das ist leider falsch.
+Wie lautet die Hauptstadt von Bayern? München
+Das ist richtig.
+Wie lautet die Hauptstadt von Sachsen? Ende
+Auf Wiedersehen.
+</pre>
+<p>Hinweis: Wenn D ein Dictionary ist, bei dem die Bundesländer die
+Schlüssel sind, bekommst Du mit list(D.keys()) eine Liste der
+Bundesländer. Du kannst Dir dann einen zufälligen Index nehmen
+und so ein Bundesland auswürfeln.

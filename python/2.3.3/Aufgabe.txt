@@ -1,0 +1,20 @@
+Aufgabe 2.3.3
+======================
+Schreibe ein Programm, das die kleinste und die größte Zahl in
+einer Liste namens Zahlen ausgibt, zum Beispiel in der Form
+<pre>
+Die kleinste Zahl ist 10 und die größte Zahl ist 97.
+</pre>
+Du musst aber nicht unbedingt einen ganzen Satz ausgeben.</p>
+<p>Die Liste erhältst Du mit
+<pre>
+from daten import Zahlen
+</pre>
+<p>Hinweis: Neben einer Schleife musst Du hier auch if-Anweisungen
+einsetzen.
+<p>Hinweis: Zahlen können auch negativ sein.
+<p>Hinweis: Zum Ausprobieren kannst Du zunächst mit festen Werten arbeiten, zum Beispiel
+<pre>
+Zahlen = [41, 25, 40, 97, 76, 40, 43, 10]
+</pre>
+<p>Zum Abgeben musst Du dann die import-Zeile oben benutzen.

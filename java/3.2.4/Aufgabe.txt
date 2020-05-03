@@ -1,0 +1,9 @@
+SC P3.2 Sichtbarkeiten Aufgabe2 mit Packages
+======================
+In dieser Aufgabe haben wir Packages hinzugefügt, damit du die Sichtbarkeiten noch einmal in einem "realen" Szenario testen kannst. Sie entspricht ansonsten der Aufgabe 3.2.2.
+
+Duke möchte bei Ronja nun die zusätzlichen Sicherheitsmaßnahmen einbauen. Dies soll mithilfe von Sichtbarkeiten geschehen. Dazu will sich Duke erstmal an einem Testroboter versuchen.
+
+Die Klasse **TestRobot** enthält 4 Attribute, die durch unterschiedliche Sichtbarkeiten geschützt sind.
+
+Implementiere in der Klasse **Terminal** eine public Methode **hackRobot()**. Dies soll einen **TestRobot** als Parameter annehmen, und alle Attribute der Klasse **TestRobot** ausgeben, auf die man von der Klasse **Terminal** aus Zugriff hat.

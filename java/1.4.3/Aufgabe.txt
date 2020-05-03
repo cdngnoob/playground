@@ -1,0 +1,16 @@
+SC P1.4 Variablen (2) Aufgabe3
+======================
+In dieser Aufgabe üben wir, Variablen verschiedener Datentypen anzulegen und miteinander zu verknüpfen.
+
+Dazu berechnen wir die maximale Laufzeit unseres Roboters Robin.
+Die Batterielaufzeiten in Stunden wollen wir dazu als ganzzahlige Werte in Variablen abspeichern.
+
+Lege zwei Variablen vom Datentyp int an. Eine der beiden Variablen soll *mainBattery* heißen und den Wert <span style="color:blue">7</span> haben, die andere soll *replacementBattery* heißen und den Wert <span style="color:blue">5</span> haben.
+
+Berechne anschließend das Ergebnis von *mainBattery* + *replacementBattery* und speichere es in einer neuen Variable *runtime* vom Datentyp int.
+
+Gib anschließend den Wert von *runtime* aus.
+
+Lege dann eine Variable vom Datentyp String mit dem Namen *result* an. Der Wert von *result* soll die Zeichenkette <span style="color:blue">"Robin hat insgesamt eine Laufzeit von: "</span> verknüpft mit dem Wert von *runtime*, gefolgt von der Zeichenkette <span style="color:blue">" Stunden"</span> sein.
+
+Gib zuletzt den Inhalt der Variablen *result* aus.

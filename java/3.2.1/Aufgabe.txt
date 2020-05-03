@@ -1,0 +1,15 @@
+SC P3.2 Sichtbarkeiten Aufgabe1
+======================
+In dieser Aufgabe üben wir das Hinzufügen von Sichtbarkeits-Modifikatoren, um Ronja zukünftig sicherer gegen Angriffe von Eike zu machen.
+
+Die Klasse **Robot** enthält 4 Attribute, die um die entsprechenden Sichtbarkeits-Modifikatoren ergänzt werden sollen:
+
+ - *secretKey* soll nur in dieser Klasse sichtbar sein
+
+ - *hasFirewall* soll in dieser Klasse und allen Subklassen sichtbar sein
+
+ - *numberOfProcessorCores* soll im Package sichtbar sein
+
+ - *id* soll überall sichtbar sein 
+
+Hinweis: In der main-Methode kannst du ausprobieren, was passiert, wenn du auf ein Attribut zugreifst, dessen Sichtbarkeits-Modifikator keinen Zugriff zulässt. Probiere den Zugriff ruhig einmal mit allen Attributen aus, um die Sichtbarkeiten besser zu verstehen.

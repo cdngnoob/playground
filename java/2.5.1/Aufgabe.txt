@@ -1,0 +1,9 @@
+SC P2.5 Primitive Arrays Aufgabe1
+======================
+In dieser Aufgabe üben wir Daten in ein Array zu speichern.
+
+Alle Hinweise, die den Fall betreffen, sollen zentral gespeichert werden. Dazu werden sie auf Robins Festplatte geschrieben. 
+
+Lege daher in der Klasse **Robot** das Attribut *clues* korrekt an. Es soll ein Array für Strings sein.
+
+Vervollständige außerdem die Methode **saveClues()**, sodass sie die Strings *clue1*, *clue2* und *clue3* dem Array *clues* zuweist.

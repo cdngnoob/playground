@@ -1,0 +1,13 @@
+SC P1.6 Methoden Aufgabe3
+======================
+In dieser Übung wiederholen wir das Anlegen von Variablen und Methoden, sowie das Verknüpfen von Zahlenwerten mit Zeichenketten.
+
+Ergänze die Klasse Robot in der Datei Robot.java: 
+
+Implementiere in der Klasse Robot die Methode **sayAge()**. Die Methode soll ausgeben: <span style="color:blue">"Ich bin 1 Jahr alt."</span>
+
+Das Alter des Roboters soll jedoch vorher als Attribut mit der Bezeichnung *age* in der Klasse Robot gespeichert werden. Dieses Attribut soll auch zur Ausgabe des Alters verwendet werden.
+
+Erzeuge anschließend in der Klasse Story in der Methode **main()** ein Objekt der Klasse Robot mit dem Namen *robin*. 
+
+Rufe nun auf dem Objekt *robin* die Methode **sayAge()** auf.

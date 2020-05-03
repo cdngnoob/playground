@@ -1,0 +1,16 @@
+SC P1.7 Methoden und Rückgabewerte Aufgabe3
+======================
+In der letzten Übung der ersten Woche wiederholen wir die Definition von Klassen und Methoden, das Anlegen von Attributen und das Aufrufen von Methoden.
+
+Detektiv Duke hat vor lauter Aufregung um Paco selbst sein Passwort vergessen. 
+Bei Aufräumarbeiten im Büro hat Duke allerdings seinen Passwortgenerator wiedergefunden, mit dem er das Passwort früher einmal erstellt hat. Vielleicht findet er sein altes Passwort ja noch im Speicher?
+
+Die Klasse **Password** ist verschlüsselt und deswegen von Menschen nicht sichtbar.
+
+Bekannt ist nur, dass die Klasse **PasswordGenerator** eine Methode **getPassword()** besitzt, welche einen String zurückgibt.
+
+Lege in der Klasse **Office** ein Attribut *password* vom Typ String und eine Methode **printPassword()** an.
+
+Rufe in der Methode **printPassword()** die Methode **getPassword()** auf dem Objekt vom Typ **PasswordGenerator** auf und speichere das Ergebnis in dem Attribut *password*.
+
+Gebe das Attribut *password* anschließend in einer eigenen Zeile aus.
