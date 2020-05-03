@@ -1,0 +1,8 @@
+SC P4.4 Foreach-Schleifen Aufgabe2
+======================
+In dieser Aufgabe soll die foreach-Schleife zum Berechnen des arithmetischen Mittels benutzt werden. Es gibt in der Klasse **Calculator** zwei Methoden, welche beide ein Array von Zahlen entgegennehmen:
+
+1. **calculateSum()**: gibt die Summe aller Elemente im Array zurück.
+2. **calculateMean()**:  gibt das arithmetische Mittel (Summe aller Werte geteilt durch die Anzahl aller Werte) zurück.
+
+Für die Implementierung von **calculateSum()** soll eine foreach-Schleife verwendet werden.

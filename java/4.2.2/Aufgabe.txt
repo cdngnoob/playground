@@ -1,0 +1,7 @@
+SC P4.2 Type Casting Aufgabe2
+======================
+In dieser Aufgabe soll wieder eine Methode zur Berechnung der Division implementiert werden.
+
+Die Methode **div()** nimmt 2 Zeichenketten entgegen und soll die möglichst korrekte Fließkommazahl der Division dieser beiden als Zeichenkette übergebenen Zahlen zurückgeben.
+
+Hinweis: Wir haben bereits sichergestellt, dass keine unerlaubten Zeichen als Zeichenkette zur Berechnung verwendet werden.

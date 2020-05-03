@@ -1,0 +1,11 @@
+SC P4.4 Foreach-Schleifen Aufgabe3
+======================
+In dieser Übung soll für jeden Roboter ein Zugangscode erstellt.
+
+Dafür muss eine Liste an Zugangscodes zusammengesetzt werden.
+
+Ergänze dafür in der Klasse **Robot** die Methode **getAccessCode()**. In dieser Methode sollen die Elemente der Liste *accessCodes* hintereinader gehängt werden. [Es werden keine weiteren Trennzeichen benötigt, die Elemente haben jeweils schon Leerzeichen an den betreffenden Stellen.]
+
+Anschließend soll der Name des Roboters angehangen und die Zeichenkette zurückgeben werden.
+
+Ergänze die Methode **main()** in der Klasse **Story** so, dass für jeden Roboter die Methode **getAccessCode()** aufgerufen wird und der Zugangscode auf einer eigenen Zeile ausgegeben wird. Verwende auch hierfür eine foreach-Schleife.

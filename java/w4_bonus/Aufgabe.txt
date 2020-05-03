@@ -1,0 +1,14 @@
+Java Einstieg Woche4 Bonus2
+======================
+Duke möchte gerne aus zwei Listen die Elemente finden, die in beiden Listen sind. Schreibe in der Klasse `DuplicateDetectionRobot` die Methode **printDuplicates()**, welche 
+zwei Parameter vom Typ `ArrayList<String>` entgegen nimmt. Finde die Einträge welche in beiden Listen sind und gib sie auf dem Bildschirm in jeweils einer eigenen Zeile aus.
+Es genügt dafür, die Duplikate jeweils einmal auszugeben.<br>
+
+Beispiel: Für die beiden Listen ["a","b","c"] und ["a","x","b"] soll:<br>
+a<br>
+b<br>
+
+ausgegeben werden.
+
+Hinweis: Benutze foreach Schleifen zum Lösen der Aufgabe. Alternativ könntest du auch HashSets benutzen, schau dir dafür bei Bedarf noch einmal das Video an. <br>
+Hinweis2: Alle Elemente innerhalb unserer Liste sind einzigartig. Die Listen enthalten also selbst keine Duplikate.

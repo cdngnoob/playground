@@ -1,0 +1,5 @@
+SC P4.2 Type Casting Aufgabe1
+======================
+In dieser Aufgabe geht es darum, bei einer Division eine möglichst korrekte Fließkommazahl als Ergebnis zu erhalten.
+
+Implementiere die Methode **div()** so, dass die Methode das korrekte Ergebnis der Division der beiden übergebenen Parameter *a* durch *b*  berechnet.

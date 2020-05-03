@@ -1,0 +1,3 @@
+SC P4 equals() Spielwiese
+======================
+Hier findet ihr einige Beispiele zu den Eigenheiten der `equals()` Methode. Wie immer könnt ihr hier experimentieren, ausprobieren, herumspielen, kaputt machen und am Ende einfach über den *Reset* Button den Ausgangszustand herstellen, um von neuem anzufangen. Schaut euch vor allem genau an, was die equals() Methoden in der Klasse Story (Zeile 8 - 27) ausgeben. Diskutiert eure Beobachtungen im <a href="https://open.hpi.de/courses/javaeinstieg2017/question/fb608cac-141b-4df7-86f6-425c3dc8a201" target="_blank">Forum</a>. 

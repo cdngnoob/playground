@@ -1,0 +1,11 @@
+SC P4.5 Interfaces Aufgabe3
+======================
+Ronja und Eike Vil sollen Paco auch einfangen können, um so die Verfolgungsjagd zu beenden. 
+
+Erstelle dazu in der Klasse **Catchable** ein weiteres Interface. Dies soll die Methode **tryToCatch()** beinhalten, die einen Parameter vom typ boolean annimmt.
+
+Die Klassen **Robot** und **SuperVillain** sollen das Interface **Catchable** zusätzlich zum Interface **Flyable** implementieren.
+
+In der Klasse **Robot** soll die Methode **tryToCatch()** "Ronja fängt Paco" ausgeben, wenn der übergebene Parameter <span style="color:blue">true</span> ist. Andernfalls soll <span style="color:blue">"Ronja fängt Paco nicht"</span> ausgegeben werden.
+
+In der Klasse **SuperVillain** soll die Methode **tryToCatch()**  <span style="color:blue">"Eike Vil fängt Paco"</span> ausgeben, wenn der übergebene Parameter  <span style="color:blue">true</span> ist. Andernfalls soll <span style="color:blue">"Eike Vil fängt Paco nicht"</span> ausgegeben werden.

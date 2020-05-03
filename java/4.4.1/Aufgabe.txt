@@ -1,0 +1,5 @@
+SC P4.4 Foreach-Schleifen Aufgabe1
+======================
+In dieser Aufgabe soll die Verwendung der foreach-Schleife geübt werden.
+
+Schreibe in der Klasse **Robot** eine Methode **giveAccessCodes()**, die einen Parameter vom Typ ArrayList annimmt und mit Hilfe einer foreach-Schleife die Elemente der Liste in einzelnen Zeilen ausgibt.

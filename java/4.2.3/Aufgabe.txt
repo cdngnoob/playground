@@ -1,0 +1,9 @@
+SC P4.2 Type Casting Aufgabe3
+======================
+In dieser Aufgabe geht es darum Fehler in der vorhandenen Methode **div()** zu beheben.
+
+Die Methode **div()** soll die als Zeichenkette übergebene Zahl *a* durch die ebenfalls als Zeichenkette übergebene Zahl *b* teilen.
+
+Im Anschluss soll das Ergebnis dieser Division durch 2 geteilt werden und schlussendlich zurückgegeben werden.
+
+Hinweis: Achte darauf, dass Fließkommazahlen als Parameter angenommen werden sollen.

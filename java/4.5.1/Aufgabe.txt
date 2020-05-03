@@ -1,0 +1,15 @@
+SC P4.5 Interfaces Aufgabe1
+======================
+Wir wollen das Beispiel aus dem Video über Interfaces nachbauen.
+
+Gegeben sind die 3 Klassen **Robot**, **Parrot** und **SuperVillain**.
+
+Schreibe das Interface **Flyable**. Dieses soll eine abstrake Methode **fly()** enthalten.
+
+**Robot**, **Parrot** und **SuperVillain** sollen das Interface **Flyable** implementieren.
+
+Die Methode **fly()** der Klasse **Parrot** soll <span style="color:blue">"Ich fliege mit meinen Flügeln!" </span> ausgeben.
+
+Die Methode **fly()** der Klasse **Robot** soll <span style="color:blue">"Ich fliege mit meinen Raketen!"</span> ausgeben.
+
+Die Methode **fly()** der Klasse **SuperVillain** soll <span style="color:blue">"Ich fliege mit meinem SuperVillain-Umhang!"</span> ausgeben.

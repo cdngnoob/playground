@@ -1,0 +1,9 @@
+SC P4.3 Collections Aufgabe2
+======================
+Die Türen im Versteck von Eike sind in der Lage, verschiedene Zugangscodes zusammen mit anderen wichtigen Informationen zu speichern. Ein Zugangscode wird durch ein Objekt der Klasse **AccessCode** repräsentiert. 
+
+Erstelle in der Klasse **Door** zuerst eine HashMap mit dem Namen *doorCodes*. Diese soll Objekte vom Typ **AccessCode** mit einem Schlüssel vom Typ String speichern.
+
+Implementiere in der Klasse **Door** anschließend die Funktion **addDoorKey()**. Diese soll einen String und ein Objekt vom Typ **AccessCode** annehmen. Das Objekt der Klasse **AccessCode** soll mit dem String als Schlüssel der HashMap *doorCodes* hinzugefügt werden.
+
+Füge der Klasse **Door** außerdem eine Funktion **useCode()** hinzu, die einen String annimmt und ein Objekt aus der HashMap sucht, dessen Schlüssel dem übergebenen String entspricht. Das Attribut *numberOfTimesUsed* des Objektes soll um **1** erhöht werden. Falls es danach größer als **2** ist, soll außerdem das Attribut *valid* gleich <span style="color:blue">false</span> gesetzt werden und die Methode soll <span style="color:blue">"Schlüssel nicht mehr gültig"</span> ausgeben. Ansonsten soll <span style="color:blue">"Schlüssel gültig"</span> ausgegeben werden.

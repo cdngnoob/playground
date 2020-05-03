@@ -1,0 +1,9 @@
+SC P4.5 Interfaces Aufgabe2
+======================
+Als nächstes wollen wir die Verfolgungsjagd simulieren.
+
+Erstelle dazu in der Klasse **TheChase** eine neue LinkedList mit dem Namen *chasers* als Attribut. Diese soll Objekte aufnehmen, die das Interface **Flyable** implementieren.
+
+Füge in der Klasse **Story** der LinkedList *chasers* des Objekts *theChase* anschließend die 3 Objekte *paco*, *ronja* und *eikeVil* hinzu.
+
+Implementiere anschließend in der Klasse **TheChase** eine Methode **chase()**, die die Methode **fly()** auf allen Objekten in **chasers** aufruft. Nutze dazu eine for-each-Schleife.

@@ -1,0 +1,9 @@
+SC P4.3 Collections Aufgabe3
+======================
+Um eine genauere Suche nach bestimmten Zugangscodes zu ermöglichen, soll zwischen Zugangscodes, die von Eike bereits während der Entführung genutzt wurden sowie bisher ungenutzten Zugangscodes unterschieden werden. 
+
+Erstelle in der Klasse **Robot** zwei ArrayLists *usedAccessCodes* und *unusedAccessCodes*, die Objekte vom Typ **AccessCode** aufnehmen.
+
+Füge der Klasse **Robot** anschließend eine Methode **saveCodes()** hinzu. Diese soll eine ArrayList als Parameter annehmen, die Objekte vom Typ **AccessCode** annimmt. Die Funktion soll durch alle Elemente der übergebenen Liste iterieren und, falls das Attribut *used* eines Elementes <span style="color:blue">true</span> ist, das entsprechende Element der Liste *usedAccessCodes* hinzufügen. Andernfalls soll es der Liste *unusedAccessCodes* hinzugefügt werden. [Tipp: Die Anzahl der Elemente in einer ArrayList kann mit der Methode **size()** abgefragt werden.] 
+
+Füge der Klasse **Robot** anschließend ein weiteres Attribut *codeHashMap* hinzu. Dieses soll eine HashMap sein, welche die ArrayList *usedAccessCodes* mit unter dem Schlüssel <span style="color:blue">"used"</span> und die ArrayList *unusedAccessCodes* unter dem Schlüssel <span style="color:blue">"unused"</span> abspeichert. Diese Zuweisung der bereits vorher angelegten Attribute soll in der Methode buildHashMap() geschehen.

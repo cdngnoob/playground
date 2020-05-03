@@ -1,0 +1,7 @@
+SC P4.3 Collections Aufgabe1
+======================
+Duke hat mehrere Zugangscodes von Eike abgefangen. Diese sollen Ronja mithilfe einer ArrayList eingespeichert werden.
+
+Erzeuge dazu ein neues Attribut vom Typ ArrayList. Dieses ArrayList soll Elemente vom Typ **AccessCode** speichern und den Bezeichner *accessCodes* haben. 
+
+Im Konstruktor der Klasse **Robot** werden 3 Objekte der Klasse **AccessCode** erzeugt.  Erweitere den Konstruktor so, dass die erzeugten Objekte im Attribut *accessCodes* gespeichert werden.

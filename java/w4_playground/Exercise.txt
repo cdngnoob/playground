@@ -1,0 +1,8 @@
+SC P4.3 Collections Spielwiese
+======================
+Wir haben euch hier eine sehr einfache und nicht ganz vollständige Implementierung eines Stacks und einer Queue vorbereitet.
+Schaut euch den Code an und spielt damit herum. Die Fortgeschritteneren unter euch können versuchen diese Collections so umzubauen, dass die enthaltenen Elemente von einem beliebigen Typ sein können. Seht euch dazu die <a href="https://docs.oracle.com/javase/tutorial/java/generics/index.html" target="_blank">Java Generics</a> an. Ein anderes interessantes Thema zu diesem Bereich sind die <a href="http://openbook.rheinwerk-verlag.de/javainsel9/javainsel_13_002.htm#mj6a20dd38f9c93abb1c32b6f2f56357af">Iteratoren</a>.
+
+
+
+Wir haben hier auch <a href="https://open.hpi.de/courses/javaeinstieg2017/question/0884f8f6-1ab0-4b51-9f72-1be1bb9e543d" target="_blank">einen Thread zum Diskutieren der Aufgabe im Forum</a> vorbereitet.
